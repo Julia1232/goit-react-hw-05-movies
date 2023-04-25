@@ -1,4 +1,4 @@
-import { Route, Routes, HashRouter } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import { lazy } from 'react';
 
 const Layout = lazy(() => import('./Layout'));
